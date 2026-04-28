@@ -24,4 +24,4 @@ jobs:
         run: docker build -t my-devops-app .
       
       - name: Success message
-        run: echo "✅ Pipeline completed successfully!"
+        run: echo "✅ Pipeline completed!"
